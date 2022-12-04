@@ -15,5 +15,5 @@
 * 1 RFID-RC522 board
 * 1+ RFID chips til indlæsning
 
-<br /><b>Kabelføring:</b><br />
+<br /><b>Kabelføring (inden tilføjelse af active buzzer):</b><br />
 ![](Assets/Images/Wiering.png)
